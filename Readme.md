@@ -6,7 +6,7 @@ CEO, Prioritize™
 
 
 PREPARED BY VANTAMED+
-+ Miguel Carrillo-Cobián (miguel.carrillocobian@mail.mcgill.ca), Responsible AI Auditor	                                                                
++ Miguel Ángel Carrillo Cobián (miguel.carrillocobian@mail.mcgill.ca), Responsible AI Auditor	                                                                
 + Leah Davis (leah.davis@mail.mcgill.ca), Responsible AI Auditor		
 
 ## Overview
@@ -74,7 +74,7 @@ pip install aif360 google matplotlib numpy pandas seaborn shap scikit-learn
 ## Credits
 
 - **Audit Team:**
-    + Miguel Carrillo-Cobián (miguel.carrillocobian@mail.mcgill.ca), Responsible AI Auditor	                                                                
+    + Miguel Ángel Carrillo Cobián (miguel.carrillocobian@mail.mcgill.ca), Responsible AI Auditor	                                                                
     + Leah Davis (leah.davis@mail.mcgill.ca), Responsible AI Auditor	 
 
 - **Course:** ECSE681 – Responsible AI, McGill University  
