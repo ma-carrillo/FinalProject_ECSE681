@@ -17,6 +17,12 @@ TriageAssist is currently in a pilot deployment phase, with the goal of broader 
 
 ## Repository Contents
 
+### 📁 An End-to-End Medical Algorithmic Audit of TriageAssist.pdf
+
+- Provides a complete, detailed audit of TriageAssist across six stages: Scoping, Mapping, Artifact Collection, Testing, Synthesis of Key Audit Matters, and Post-Audit Measures.
+
+- Includes executive summary, audit findings, actionable recommendations, and appendices.
+
 ### 📁 `TriageAssist_Audit_Code.ipynb`
 
 This Jupyter Notebook contains the full technical audit pipeline and is organized into the following key sections:
